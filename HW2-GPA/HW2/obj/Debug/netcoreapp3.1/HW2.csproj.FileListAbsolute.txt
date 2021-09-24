@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/bin/Debug/netcoreapp3.1/HW2.deps.json
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/bin/Debug/netcoreapp3.1/HW2.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/bin/Debug/netcoreapp3.1/HW2.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/bin/Debug/netcoreapp3.1/HW2.dll
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/bin/Debug/netcoreapp3.1/HW2.pdb
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.dll
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.pdb
+/Users/duhrillestalive/Downloads/VS/HW2-GPA/HW2/obj/Debug/netcoreapp3.1/HW2.genruntimeconfig.cache

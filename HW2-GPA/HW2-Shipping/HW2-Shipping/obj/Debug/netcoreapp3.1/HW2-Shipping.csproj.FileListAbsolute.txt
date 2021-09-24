@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/bin/Debug/netcoreapp3.1/HW2-Shipping.deps.json
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/bin/Debug/netcoreapp3.1/HW2-Shipping.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/bin/Debug/netcoreapp3.1/HW2-Shipping.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/bin/Debug/netcoreapp3.1/HW2-Shipping.dll
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/bin/Debug/netcoreapp3.1/HW2-Shipping.pdb
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.dll
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.pdb
+/Users/duhrillestalive/Downloads/VS/HW2-Shipping/HW2-Shipping/obj/Debug/netcoreapp3.1/HW2-Shipping.genruntimeconfig.cache

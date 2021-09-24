@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/bin/Debug/netcoreapp3.1/HW2-FizzBuzz.deps.json
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/bin/Debug/netcoreapp3.1/HW2-FizzBuzz.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/bin/Debug/netcoreapp3.1/HW2-FizzBuzz.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/bin/Debug/netcoreapp3.1/HW2-FizzBuzz.dll
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/bin/Debug/netcoreapp3.1/HW2-FizzBuzz.pdb
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.dll
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.pdb
+/Users/duhrillestalive/Downloads/VS/HW2-FizzBuzz/HW2-FizzBuzz/obj/Debug/netcoreapp3.1/HW2-FizzBuzz.genruntimeconfig.cache
