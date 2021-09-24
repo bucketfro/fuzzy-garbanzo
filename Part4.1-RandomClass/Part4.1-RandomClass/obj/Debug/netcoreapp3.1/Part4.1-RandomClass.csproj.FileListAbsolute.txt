@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/bin/Debug/netcoreapp3.1/Part4.1-RandomClass.deps.json
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/bin/Debug/netcoreapp3.1/Part4.1-RandomClass.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/bin/Debug/netcoreapp3.1/Part4.1-RandomClass.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/bin/Debug/netcoreapp3.1/Part4.1-RandomClass.dll
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/bin/Debug/netcoreapp3.1/Part4.1-RandomClass.pdb
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.dll
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.pdb
+/Users/duhrillestalive/Downloads/VS/Part4.1-RandomClass/Part4.1-RandomClass/obj/Debug/netcoreapp3.1/Part4.1-RandomClass.genruntimeconfig.cache
