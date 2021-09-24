@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/bin/Debug/netcoreapp3.1/IfStatements.deps.json
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/bin/Debug/netcoreapp3.1/IfStatements.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/bin/Debug/netcoreapp3.1/IfStatements.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/bin/Debug/netcoreapp3.1/IfStatements.dll
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/bin/Debug/netcoreapp3.1/IfStatements.pdb
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.dll
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.pdb
+/Users/duhrillestalive/Downloads/VS/IfStatements/IfStatements/obj/Debug/netcoreapp3.1/IfStatements.genruntimeconfig.cache
