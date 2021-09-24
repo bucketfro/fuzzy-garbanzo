@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/bin/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.deps.json
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/bin/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/bin/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/bin/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.dll
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/bin/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.pdb
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.dll
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.pdb
+/Users/duhrillestalive/Downloads/VS/Part4.2WhileLoops/Part4.2Do-WhileLoops/obj/Debug/netcoreapp3.1/Part4.2Do-WhileLoops.genruntimeconfig.cache
