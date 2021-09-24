@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/bin/Debug/netcoreapp3.1/Part5.1.deps.json
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/bin/Debug/netcoreapp3.1/Part5.1.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/bin/Debug/netcoreapp3.1/Part5.1.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/bin/Debug/netcoreapp3.1/Part5.1.dll
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/bin/Debug/netcoreapp3.1/Part5.1.pdb
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.dll
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.pdb
+/Users/duhrillestalive/Downloads/VS/Part5.1-Multiples/Part5.1/obj/Debug/netcoreapp3.1/Part5.1.genruntimeconfig.cache
