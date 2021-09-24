@@ -1,0 +1,13 @@
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/bin/Debug/netcoreapp3.1/Part5.2-Countdown.deps.json
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/bin/Debug/netcoreapp3.1/Part5.2-Countdown.runtimeconfig.json
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/bin/Debug/netcoreapp3.1/Part5.2-Countdown.runtimeconfig.dev.json
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/bin/Debug/netcoreapp3.1/Part5.2-Countdown.dll
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/bin/Debug/netcoreapp3.1/Part5.2-Countdown.pdb
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.csproj.AssemblyReference.cache
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.AssemblyInfoInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.AssemblyInfo.cs
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.csproj.CoreCompileInputs.cache
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.dll
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.pdb
+/Users/duhrillestalive/Downloads/VS/Part5.2-Countdown/Part5.2-Countdown/obj/Debug/netcoreapp3.1/Part5.2-Countdown.genruntimeconfig.cache
